@@ -23,7 +23,7 @@ app.exe -server.name=Tortuga -server.address=127.0.0.1 -server.port=21795 -serve
 
 # Example
 
-```
+```cpp
 #include "config_utility.hpp"
 
 #include <iostream>
